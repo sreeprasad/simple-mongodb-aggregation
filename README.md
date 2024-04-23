@@ -37,4 +37,4 @@ only single group because `id` is nil.
 
 ## Screenshots
 
-![mongodb aggregation pipeline](screenshots/mongodb-pipeline.jpeg)
+![mongodb aggregation pipeline](screenshots/mongodb-pipeline.jpg)
